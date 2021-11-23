@@ -1,37 +1,169 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title></title>
+<style type="text/css">
+	#no0 {
+    background-color: #FFFFFF;
+    height: 1996px;
+    width: 960px;
+    position: absolute;
+    margin-left: 220px;
+}
+tr td h1 {
+    font-size: 18px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+.1234 {
+    text-align: center;
+}
+tr {
+}
+#no1 {
+    background-color: #FFFFFF;
+    height: 640px;
+    width: 960px;
+    position: absolute;
+    margin-top: -13px;
+}
+#no1 #no5 h1 {
+    margin-left: 101px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    border-radius: 28px;
+}
+#no1 {
+    margin-left: -24px;
+    width: 1069px;
+}
+tbody tr td {
+    background-color: hsla(175,49%,73%,1.00);
+    width: 65px;
+    margin-left: -23px;
+}
+#no1 #no4 h1 {
+    margin-left: 180px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#no1 #no3 h1 {
+    margin-left: 183px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#no2 {
+    background-color: #E2BEAB;
+    height: 320px;
+    width: 320px;
+    position: absolute;
+    margin-left: 542px;
+    margin-top: 125px;
+}
+#no3 {
+    background-color: #ACC1DE;
+    height: 320px;
+    width: 320px;
+    position: absolute;
+    margin-left: 383px;
+    margin-top: 95px;
+    color: hsla(52,78%,66%,1.00);
+    margin-right: 0px;
+}
+	#no4 {
+    background-color: hsla(182,100%,68%,1.00);
+    height: 320px;
+    width: 320px;
+    position: absolute;
+    margin-left: 227px;
+    margin-top: 69px;
+    color: hsla(52,35%,76%,1.00);
+}
+	#no5 {
+    background-color: hsla(156,55%,70%,1.00);
+    height: 320px;
+    width: 320px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 39px;
+    color: hsla(0,0%,100%,1.00);
+    -webkit-transition: all 10s cubic-bezier(x1,y1,x2,y2) 3s;
+    -o-transition: all 10s cubic-bezier(x1,y1,x2,y2) 3s;
+    transition: all 10s cubic-bezier(x1,y1,x2,y2) 3s;
+}
+#no1 #no2 h1 {
+    margin-left: 180px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+}
+#no9 {
+    background-color: hsla(0,0%,100%,1);
+    height: 140px;
+    width: 960px;
+    position: static;
+    color: hsla(0,0%,100%,1.00);
+    margin-left: 49px;
+}
+#no0 #no9 img {
+    margin-left: -49px;
+}
+#no5:active {
+    color: hsla(359,38%,63%,1);
+    border-bottom-left-radius: 134px;
+    border-bottom-right-radius: 134px;
+    border-top-right-radius: 134px;
+}
+</style>
+<script src="网页设计1.0/jQueryAssets/jquery-1.11.1.min.js"></script>
+<script src="网页设计1.0/jQueryAssets/jquery-ui-effects.custom.min.js"></script>
+<script type="text/javascript">
+function MM_DW_effectShake(obj,method,effect,direction,distance,times,speed)
+{
+    obj[method](effect, {direction:direction,distance:distance,times:times}, speed);
+}
+function MM_DW_effectHighlight(obj,method,effect,color,speed)
+{
+    obj[method](effect, {color:color}, speed);
+}
+</script>
+</head>
 
-You can use the [editor on GitHub](https://github.com/14138607/14138607.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<body style="">
+<div id="no0"><div id="no9"><img src="网页设计1.0/uygi.jpg" width="960" height="639" alt=""/></div>
+  <div id="no1">
+    <table width="1000" border="0"     >
+      <tbody>
+        <tr>
+          <td><h1>Homepage</h1></td>
+          <td><h1>introduce</h1></td>
+          <td><h1>works</h1></td>
+          <td><h1>hobby</h1></td>
+          <td><h1>photo</h1></td>
+        </tr>
+      </tbody>
+    </table>
+    <a href="网页设计1.0/Untitled-4.html">
+      <div id="no2">
+        <h1>PHOTO</h1>
+      </div>
+    </a> <a href="网页设计1.0/Untitled-3.html">
+        <div id="no3">
+          <h1>HOBBY</h1>
+        </div>
+        </a>
+   <a href="网页设计1.0/Untitled-2.html"> <div id="no4">
+      <h1>WORKS</h1>
+    </div></a>
+    <label><a href="Untitled-1.html"> <div id="no5" onMouseOver="MM_DW_effectShake($(this),'effect','shake','up',5,5,1000)"">
+		 <h1>INTRODUCE</h1>
+    </div></a></label>
+  </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/14138607/14138607.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
